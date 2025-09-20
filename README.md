@@ -1,0 +1,1 @@
+This project will be made to test out my skills for the Odin Project Lesson.
